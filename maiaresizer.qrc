@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qrc_icons">
+        <file>icons/MAIA_icon.png</file>
+        <file>icons/MAIA_icon_About.png</file>
+        <file>icons/MAIA_icon_Lauch.png</file>
+        <file>icons/MAIA_icon_New.png</file>
+        <file>icons/MAIA_icon_Quit.png</file>
+        <file>icons/MAIA_Splash_Image_Operator.png</file>
+    </qresource>
+</RCC>
